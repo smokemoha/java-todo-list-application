@@ -1,6 +1,5 @@
 Demo Of The Java Todo List
-
-![Image](https://github.com/user-attachments/assets/b2aab702-268c-4ccc-920d-78d91a6391c5)
+![Image](https://github.com/user-attachments/assets/b7cca7b5-a57b-4d65-af79-5083bcb9d372)
 # Java To-Do List Application
 
 A robust, console-based To-Do List application built in Java that integrates with a PostgreSQL database. This application demonstrates full CRUD (Create, Read, Update, Delete) operations, secure configuration management using environment variables with dotenv-java, and input validation for a production-ready project.
